@@ -1,0 +1,223 @@
+/*/////// ELEMENTS//////// */
+a {
+  color: #11999E;
+}
+
+body {
+  font-family: 'Merriweather Sans', sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+div {
+  background-color: white;
+  padding: 5px;
+}
+
+hr {
+  border-color: #B4D2D5;
+  border-style: dotted none none none;
+  border-width: 8px;
+  margin: 100px auto 150px auto;
+  width: 80px;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 6rem;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0 auto 75px auto;
+}
+
+p {
+  color: #40514E;
+}
+
+/*/////// CLASSES//////// */
+.about-art {
+  text-decoration: none;
+}
+
+.a-programmer {
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-weight: normal;
+  line-height: 2;
+}
+
+.BUTTON {
+  background: linear-gradient(to bottom, #66bfbf 5%, #3c8282 100%);
+  background-color: #66bfbf;
+  border-radius: 7px;
+  box-shadow: 0 0 0 0 #2a5c5c;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Arial;
+  font-size: 25px;
+  margin-bottom: 85px;
+  margin-top: 55px;
+  padding: 13px 25px;
+  text-decoration: none;
+  text-shadow: 0 0 0 #66bfbf;
+}
+
+.BUTTON:active {
+  position: relative;
+  top: 1px;
+}
+
+.bottom-cloud {
+  bottom: 300px;
+  left: 300px;
+  position: absolute;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  color: #11999E;
+  padding: 0;
+  position: relative;
+}
+
+.BUTTON:hover {
+  background: linear-gradient(to bottom, #3c8282 5%, #66bfbf 100%);
+  background-color: #3c8282;
+}
+
+.bottom-rule {
+  margin: 350px auto 150px auto;
+}
+
+.computer {
+  border-radius: 100%;
+  float: left;
+  height: auto;
+  margin-right: 30PX;
+  width: 30%;
+}
+
+.draw {
+  float: right;
+  height: auto;
+  margin-left: 30PX;
+  width: 30%;
+}
+
+.footer-link1 {
+  display: inline-block;
+  font-size: 1.5rem;
+  margin-top: 45px;
+  padding: 0 40px 50px 40px;
+  text-decoration: none;
+}
+
+.footer-link2 {
+  color: #EAF6F6;
+  font-family: serif;
+  font-size: 17px;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-bottom: 35px;
+}
+
+.get-in-touch {
+  font-size: 50px;
+  margin: 50px auto 65px auto;
+}
+
+.Howdy {
+  font-size: 4rem;
+  line-height: 2;
+  margin: 20 auto auto;
+}
+
+.icon-attr {
+  font-size: 10px;
+  margin: 0 auto 0 auto;
+}
+
+.julzpic {
+  height: auto;
+  margin: 65px auto 0 auto;
+  width: 20%;
+}
+
+.meeting-pic {
+  float: left;
+  height: auto;
+  margin-right: 30PX;
+  width: 30%;
+}
+
+.middle-container {
+  padding: 0;
+}
+
+.my-skills-title {
+  font-size: 4rem;
+}
+
+.profile {
+  color: #40514E;
+  font-weight: bold;
+}
+
+.skills {
+  margin-top: 0;
+  padding: 0;
+}
+
+.skill-heading {
+  margin: 0 auto 20px auto;
+}
+
+.skill-row {
+  padding: 0;
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.skill-row2 {
+  line-height: 2;
+  margin: 125px auto 125px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.strikethrough {
+  text-decoration: line-through;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.topcontainer {
+  background-color: #EAF6F6;
+  padding: 100px 0 0 0;
+  position: relative;
+}
+
+.underline {
+  text-decoration: underline;
+}
